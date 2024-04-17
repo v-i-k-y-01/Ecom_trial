@@ -13,8 +13,9 @@ class Alpha
 
         Console.WriteLine();
         Console.WriteLine();
+            Console.WriteLine();
 
-       
+
         Console.WriteLine(@"1.Home
 2.Offer Zone
 3.Clearance Sale
